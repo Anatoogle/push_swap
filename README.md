@@ -51,7 +51,7 @@ You must sort Stack A in ascending order using only the allowed operations.
 - Stack implementation using linked lists
 - Optimized sorting strategies
 - Small-size sorting optimization
-- Large dataset chunk/radix sorting
+- Large dataset sorting
 - Memory leak free
 
 ---
