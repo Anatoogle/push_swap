@@ -97,3 +97,6 @@ make re
 - `ra`
 - `pa`
 
+## Compliance
+
+This project was developed in compliance with the requirements and constraints of the 42 network, respecting the imposed coding standards, allowed functions, and project guidelines.
